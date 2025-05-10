@@ -1,1 +1,1 @@
-# IIT-Project-2----Python---Conway-s-Game-of-Life
+Conway's Game of Life – Pygame Implementation
